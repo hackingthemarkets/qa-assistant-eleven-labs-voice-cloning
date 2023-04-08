@@ -45,4 +45,4 @@ brew install ffmpeg
 
 * a full photo of a young financial advisor wearing a Hawaiian shirt, holding a cocktail glass, meeting with his client at a bar, natural lighting, uplight, natural features, photorealistic, highly detailed, cinematic lighting https://s.mj.run/mTbGLb82o8E --iw 2.0 --v 5 
 
-* a full photo of a young female financial advisor wearing a Hawaiian shirt, sitting at a bar, natural lighting, uplight, natural features, photorealistic, highly detailed, cinematic lighting https://cdn.theplaylist.net/wp-content/uploads/2018/03/14222302/Scarlett-Johansson-750x400.jpg --iw 2.0 --v 5 - Image #2 @parttimelarry
+* a full photo of a young female financial advisor wearing a Hawaiian shirt, sitting at a bar, natural lighting, uplight, natural features, photorealistic, highly detailed, cinematic lighting https://cdn.theplaylist.net/wp-content/uploads/2018/03/14222302/Scarlett-Johansson-750x400.jpg --iw 2.0 --v 5
